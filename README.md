@@ -24,4 +24,4 @@ Two photon giant atom with added kerr potential to two-photon cavities
 
 # Examples
 
-Some examples are provided in the Examples folder with the figures from running these examples in the Figures folder
+In the examples folder one can find examples for single photon, two photon and Doublon processes. For single photon and two photon processes we show dynamics for both a single GA as well as two braided GAs while for the doublon we only show dynamics for two giant atoms with direct or natural coupling. Running these examples yield the figures found in the corresponding folder in the Figures folder. 
