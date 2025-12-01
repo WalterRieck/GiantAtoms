@@ -9,6 +9,14 @@ Clone the library with
 git clone https://github.com/WalterRieck/GiantAtoms
 ```
 
+# Usage
+
+Provided with the repository is a few examples in the "Examples" folder as well as the figures created from them in the "Figures" folder. One can run a particular example with
+```bash
+python Examples/Doublon/DirectCouplingGA.py
+```
+This will then generate the figures in: "Figures/Doublon/DirectCoupling".
+
 # Functions
 
 The following classes are available in the source file GA.py
